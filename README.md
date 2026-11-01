@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- Dark Cyberpunk Coding Workstation Banner -->
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="100%" alt="Cyberpunk Coding Banner" />
-
-  <br/><br/>
-
   <!-- Neon Purple/Blue Animated Header -->
   <a href="https://github.com/shreyashGAmbekar">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=750&height=48&lines=SHREYASH+GANESH+AMBEKAR" alt="Shreyash Ganesh Ambekar" />
@@ -34,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `>_` SYSTEM_DIAGNOSTICS // ABOUT ME
+### `>_` ABOUT ME
 
 I am an **Artificial Intelligence & Data Science** undergraduate at **Vidyavardhini's College of Engineering & Technology (VCET), Vasai Road (Mumbai Metropolitan Region)**, originally from **Kolhapur, Maharashtra**. I specialize in building full-stack web architectures, secure enterprise banking systems, AI-powered platforms, and embedded hardware systems from the ground up.
 
@@ -46,7 +41,7 @@ I am an **Artificial Intelligence & Data Science** undergraduate at **Vidyavardh
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `>_` TECHNICAL_ARSENAL // STACK & ARCHITECTURE
+### `>_` STACK & ARCHITECTURE
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,react,vite,tailwind&theme=dark&perline=9" alt="Core Languages and Frontend" />
@@ -101,7 +96,7 @@ I am an **Artificial Intelligence & Data Science** undergraduate at **Vidyavardh
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `>_` ENGINEERED_SYSTEMS // FEATURED PROJECTS
+### `>_` FEATURED PROJECTS
 
 <table width="100%">
   <tr>
@@ -166,14 +161,24 @@ I am an **Artificial Intelligence & Data Science** undergraduate at **Vidyavardh
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `>_` TELEMETRY_MATRIX // GITHUB ANALYTICS
+### `>_` github_stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shreyashGAmbekar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=3B82F6&text_color=CBD5E1&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashGAmbekar&theme=transparent&hide_border=true&stroke=1E293B&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=shreyashGAmbekar&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7" alt="GitHub streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyashGAmbekar/shreyashGAmbekar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyashGAmbekar/shreyashGAmbekar/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shreyashGAmbekar/shreyashGAmbekar/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:A855F7&height=100&section=footer" width="100%" alt="" />
 
 <div align="center">
   <sub>⚡ Engineered by <b>Shreyash Ganesh Ambekar</b> • B.E. AI & Data Science @ VCET • Always building the next big thing.</sub>
